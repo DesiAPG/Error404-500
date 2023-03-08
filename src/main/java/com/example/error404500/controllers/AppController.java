@@ -1,4 +1,4 @@
-package com.example.errorexceptions.controllers;
+package com.example.error404500.controllers;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
